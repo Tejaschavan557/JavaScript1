@@ -1,0 +1,7 @@
+let num = 12;
+let name= "tejas";
+let status = true;
+let school = null;
+let div = undefined;
+
+console.table([typeof num,typeof name,typeof status,typeof null,typeof undefined]);
