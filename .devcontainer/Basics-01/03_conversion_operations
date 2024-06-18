@@ -1,0 +1,29 @@
+let score = "33";
+
+console.log(typeof score);
+ let inNum = Number(score);
+
+ console.log(typeof inNum);
+ console.log(inNum);
+
+ //"33" => 33
+ // "3aa" => NaN
+  // true >= 1
+
+  // boolean conversion
+
+  let isLoggdIn ="aaaa";
+
+  let booleanLoggedIn = Boolean(isLoggdIn);
+  console.log(booleanLoggedIn);
+  // 1 => true
+  // "" => false
+  // "aaa" => true
+
+  // String conversion
+
+  let num = "abc11";
+   
+  let StringNum = String(num);
+  console.log(typeof StringNum);
+  console.log(StringNum);
